@@ -2,7 +2,7 @@
 - 👋 I am learning at the Faculty of Automatic Control and Computers from UPB
 - 👀 I’m interested in pretty much all areas of programming
 - 🌱 I’m currently learning Python and C++
-- ✨ I'm comfortable working in C
+- ✨ I'm most comfortable working in C
 - 💞️ I’m looking to collaborate on anything i can help with or have posted
 - 📫 How to reach me:
 -   Twitter - @IAdafinei
