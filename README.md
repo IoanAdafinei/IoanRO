@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IoanAdafinei
 - 👋 I am learning at the Faculty of Automatic Control and Computers from UPB
 - 👀 I’m interested in pretty much all areas of programming
-- 🌱 I’m currently learning Python 
 - ✨ I'm most comfortable working in C, C++ and JavaScript with React
+- 🌱 Recently I finished courses on machine learning, Java and database design 
 - 💞️ I’m looking to collaborate on anything i can help with or have posted
 - 📫 How to reach me:
 -   Twitter - @IAdafinei
